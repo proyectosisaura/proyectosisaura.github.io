@@ -1,1 +1,1 @@
-{"version":3,"sources":["main.scss"],"names":[],"mappings":"AACA,MAAA","file":"main.css"}
+{"version":3,"sources":["_fonts.scss","_titulos.scss","main.css","main.scss"],"names":[],"mappings":"AAAQ,oHAAA;ACER;EACI,mBAAA;EACA,oBAAA;EACA,mBAAA;ACAJ;;ADGA;EACI,mBAAA;EACA,oBAAA;EACA,kBAAA;ACAJ;;ADGA;EACI,8BAAA;EACA,kBAAA;EACA,mBAAA;ACAJ;;ACJA;EACI,iEAAA;EACA,4BAAA;EACA,4BAAA;ADOJ;;ACJA;EACI,iEAAA;EACA,2CAAA;EACA,4BAAA;ADOJ","file":"main.css"}

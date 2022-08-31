@@ -3,3 +3,22 @@
 @import "_cajas";
 @import "_titulos";
 @import "_fonts";
+
+$limit: 10;
+$unit: 2rem;
+
+@function size ($value){
+    @return $valeu * $unit;
+}
+
+.body{
+    background-image: linear-gradient(to top, #dfe9f3 0%, white 100%);
+    /* background-size: 900px; */
+    background-repeat: no-repeat;
+}
+
+.container{
+    background-color: linear-gradient(to top, #dfe9f3 0%, white 100%);
+    box-shadow: 0 0 20px 2px rgba(0,0,0,0.1);
+    background-repeat: no-repeat;
+}
